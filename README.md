@@ -1,4 +1,4 @@
-CrateJuice™ Snaps
+CrateJuice™ Snaps (v_0)
 
 Machine A:
 - Drop photo → see photo
