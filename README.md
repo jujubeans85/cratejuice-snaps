@@ -11,5 +11,6 @@ Future Machines:
 - Machine C: Remember (time + place)
 - Machine D: Gift (QR / link)
 
-Rule:
-Machines first. Content later.
+Rules:
+1 Build with so much love for Mimi + Cbo.
+2 Machines first. Content later.
